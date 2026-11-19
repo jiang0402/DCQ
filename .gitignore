@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+runs/
+datasets/
+*.pt
+*.pth
+*.ckpt
+.env
